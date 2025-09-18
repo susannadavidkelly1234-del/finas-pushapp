@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background: linear-gradient(to right, #ffdde1, #ee9ca7);
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+.app-container {
+  margin-top: 20%;
+}
+
+button {
+  background: #ff6b6b;
+  color: white;
+  border: none;
+  padding: 15px 25px;
+  font-size: 18px;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+button:hover {
+  background: #ff3b3b;
+}
